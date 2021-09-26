@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseFirstDemo", "Databa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDemoV2", "CodeFirstDemoV2\CodeFirstDemoV2.csproj", "{4AE1FF7B-8BB3-4C57-B14F-B583856DE47B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoDbFirst", "PlutoDbFirst\PlutoDbFirst.csproj", "{ED903198-2447-4C61-92BB-4274D5E58E3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4AE1FF7B-8BB3-4C57-B14F-B583856DE47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE1FF7B-8BB3-4C57-B14F-B583856DE47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE1FF7B-8BB3-4C57-B14F-B583856DE47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
