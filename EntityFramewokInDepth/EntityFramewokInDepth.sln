@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDemoV2", "CodeFirs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoDbFirst", "PlutoDbFirst\PlutoDbFirst.csproj", "{ED903198-2447-4C61-92BB-4274D5E58E3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoCodeFirst", "PlutoCodeFirst\PlutoCodeFirst.csproj", "{3241A008-A481-484E-864D-D478B2472B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoCodeFirstExestingDb", "PlutoCodeFirstExestingDb\PlutoCodeFirstExestingDb.csproj", "{8034CAF9-0C18-40D3-924F-E89BC553D35A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED903198-2447-4C61-92BB-4274D5E58E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3241A008-A481-484E-864D-D478B2472B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3241A008-A481-484E-864D-D478B2472B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3241A008-A481-484E-864D-D478B2472B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3241A008-A481-484E-864D-D478B2472B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
