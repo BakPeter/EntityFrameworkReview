@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoCodeFirst", "PlutoCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoCodeFirstExestingDb", "PlutoCodeFirstExestingDb\PlutoCodeFirstExestingDb.csproj", "{8034CAF9-0C18-40D3-924F-E89BC553D35A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnnotations", "DataAnnotations\DataAnnotations.csproj", "{415B010B-3387-41C8-8649-98E423189105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentAPI", "FluentAPI\FluentAPI.csproj", "{48DBB8A9-8F8F-4E9B-97D6-1DA456480131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8034CAF9-0C18-40D3-924F-E89BC553D35A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415B010B-3387-41C8-8649-98E423189105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415B010B-3387-41C8-8649-98E423189105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415B010B-3387-41C8-8649-98E423189105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415B010B-3387-41C8-8649-98E423189105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DBB8A9-8F8F-4E9B-97D6-1DA456480131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DBB8A9-8F8F-4E9B-97D6-1DA456480131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DBB8A9-8F8F-4E9B-97D6-1DA456480131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DBB8A9-8F8F-4E9B-97D6-1DA456480131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
